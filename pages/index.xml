@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on gregwork.net</title>
@@ -6,22 +6,19 @@
     <description>Recent content in Pages on gregwork.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-au</language>
-    <lastBuildDate>Sun, 23 Aug 2015 21:35:07 +0930</lastBuildDate>
-    
-	<atom:link href="https://gregwork.net/pages/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 23 Aug 2015 21:35:07 +0930</lastBuildDate><atom:link href="https://gregwork.net/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Greg Work</title>
       <link>https://gregwork.net/pages/resume/</link>
       <pubDate>Sun, 23 Aug 2015 21:35:07 +0930</pubDate>
       
       <guid>https://gregwork.net/pages/resume/</guid>
-      <description>Contact  greg@gregwork.net
+      <description>Contact greg@gregwork.net
 Summary Unix Systems Engineer with extensive experience in a wide range of technologies, possessing excellent technical and personal communication skills and an eye for detail.
 Strong advocate for DevOps methodologies, with a passion for automation and operations.
 Extensive experience working in technical teams and interfacing with other departments to design, develop and successfully deploy internal and customer-facing projects.
-Strong knowledge of standard UNIX tools and scripting.</description>
+Strong knowledge of standard UNIX tools and scripting.
+Logical and collaborative troubleshooting and fault recovery methodology.</description>
     </item>
     
   </channel>

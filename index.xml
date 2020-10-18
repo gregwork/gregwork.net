@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>gregwork.net on gregwork.net </title>
@@ -10,127 +9,12 @@
     <updated>Sun, 23 Aug 2015 21:35:07 ACST</updated>
     
     <item>
-      <title>Greg Work</title>
-      <link>https://gregwork.net/pages/resume/</link>
+      <title>Pages</title>
+      <link>https://gregwork.net/pages/</link>
       <pubDate>Sun, 23 Aug 2015 21:35:07 ACST</pubDate>
       
-      <guid>https://gregwork.net/pages/resume/</guid>
-      <description>
-
-&lt;h4 id=&#34;contact&#34;&gt;Contact&lt;/h4&gt;
-
-&lt;p&gt;&lt;i class=&#34;fa fa-envelope-o&#34;&gt;&lt;/i&gt; greg@gregwork.net&lt;/p&gt;
-
-&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
-
-&lt;p&gt;Unix Systems Engineer with extensive experience in a wide range of technologies, possessing excellent technical and personal communication skills and an eye for detail.&lt;/p&gt;
-
-&lt;p&gt;Strong advocate for DevOps methodologies, with a passion for automation and operations.&lt;/p&gt;
-
-&lt;p&gt;Extensive experience working in technical teams and interfacing with other departments to design, develop and successfully deploy internal and customer-facing projects.&lt;/p&gt;
-
-&lt;p&gt;Strong knowledge of standard UNIX tools and scripting.&lt;/p&gt;
-
-&lt;p&gt;Logical and collaborative troubleshooting and fault recovery methodology.  Broad knowledge across many disciplines.  Excellent diagnostic and research skills to find solutions for obscure faults.&lt;/p&gt;
-
-&lt;h3 id=&#34;skills&#34;&gt;Skills&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Configuration management&lt;/strong&gt;: Puppet, Ansible&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Image Creation&lt;/strong&gt;: Packer, Veewee&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Development Environment Automation&lt;/strong&gt;: Vagrant&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Deployment and Orchestration&lt;/strong&gt;: Capistrano&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Monitoring and Logging&lt;/strong&gt;: Mon, Observium, rsyslog, Elasticsearch, Logstash&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Instrumentation, Metrics and Visualisation&lt;/strong&gt;: StatsD, Graphite, Grafana, collectd, Kibana, JMXTrans&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Continuous Integration/Continuous Deployment&lt;/strong&gt;: Jenkins, Atlassian Bamboo&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Packaging&lt;/strong&gt;: Debian packaging created using native toolsets, FPM and git-buildpackage.  RPM packaging using FPM&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Programming languages&lt;/strong&gt;: Ruby, Perl, Shell.  Learning Go.  Have submitted patches in Java, Python&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hardware and Storage&lt;/strong&gt;: x86 servers (Sun, Oracle, Dell), SAN (IBM XIV, Sun StorageTek 6540/FlexLine FLX380, Brocade Fabric switches), NAS (Sun Storage 7000 Series Unified Storage Devices), ZFS&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Virtualisation&lt;/strong&gt;: Datacentre-grade (VMware ESX/ESXi + vCenter Server), Workstation-grade (VMware Fusion, VirtualBox), Partitioning (VServers, LXC, Solaris Zones, BSD Jails)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Automated Provisioning&lt;/strong&gt;: Netboot, Preseed, Kickstart&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Unix variants&lt;/strong&gt;: Ubuntu, Debian, RedHat, Centos, FreeBSD, OS X, Solaris&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Source code management and code review&lt;/strong&gt;: Git, Subversion, Atlassian FishEye/Crucible, Gerrit&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Web and Application servers&lt;/strong&gt;: Apache, Nginx, Glassfish, Jetty, Tomcat&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Database&lt;/strong&gt;: PostgreSQL, MySQL&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Networking and Network services&lt;/strong&gt;: IOS, firewalls, routers, switches, VPN, DNS, DHCP, LDAP, NFS, PXE&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Load balancers&lt;/strong&gt;: Cisco ACE, F5 Big IP LTM, HAProxy&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h3&gt;
-
-&lt;h4 id=&#34;senior-systems-engineer-internode-iinet-tpg&#34;&gt;Senior Systems Engineer - Internode/iiNet/TPG&lt;/h4&gt;
-
-&lt;p&gt;Full time permanent from April 2007 to date&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Successfully introduced and advocated for the adoption of DevOps practices, including assisting and mentoring developers on operational concerns and providing the infrastructure to support for high quality software releases.&lt;/li&gt;
-&lt;li&gt;Designed and developed Configuration Management infrastructure based on Puppet, currently managing 300 servers.&lt;/li&gt;
-&lt;li&gt;Designed and developed programatically generated, local development environments based on Packer and Vagrant.&lt;/li&gt;
-&lt;li&gt;Designed and developed a generic deployment toolkit based on Capistrano, used to deploy Perl, PHP and Java software, in either one-click or continuous deployment scenarios.&lt;/li&gt;
-&lt;li&gt;Designed and implemented Continuous Integration environments, including custom-written clean-room compilation environments.&lt;/li&gt;
-&lt;li&gt;Designed and implemented application instrumentation and metrics collection infrastructure, based on StatsD, Graphite and JMXTrans.&lt;/li&gt;
-&lt;li&gt;Designed and built infrastructure to deploy and support many instances of core billing platforms.  Deployment tooling included configuration automation based on Puppet, custom-written deployment and environment management tooling, custom-written software to automate GlassFish, development environments based on Packer and Vagrant, and centralised logging/log data extraction based on Elasticsearch, Logstash and Kibana.&lt;/li&gt;
-&lt;li&gt;Member of several Special Interest Groups (Perl, Java, CI/CD) to further advocate DevOps practices and provide assistance and mentoring on operational concerns.&lt;/li&gt;
-&lt;li&gt;Designed, implemented and maintained virtualisation platforms, based on VMware ESXi.&lt;/li&gt;
-&lt;li&gt;Implemented and maintained SAN/NAS storage platforms.&lt;/li&gt;
-&lt;li&gt;Implemented and maintained load balancer platforms.&lt;/li&gt;
-&lt;li&gt;Designed, developed and provided full-stack managed hosting services and support for clients.&lt;/li&gt;
-&lt;li&gt;Responsible for System Operations presence in Internode’s datacentres, including resource management, capacity planning, hardware installs and network build/migrations.&lt;/li&gt;
-&lt;li&gt;Provided information, support, mentoring and training to other team members and departments.&lt;/li&gt;
-&lt;li&gt;Provided technical and client-facing documentation for systems and services.&lt;/li&gt;
-&lt;li&gt;Performed troubleshooting and fault diagnosis across all layers of the stack, from testing cross-datacentre fibre optics to debugging application failures via stack dumps.&lt;/li&gt;
-&lt;li&gt;Improved High Availability and Disaster Recovery for core applications by implementing configuration automation and retrofitting clustering and load balancing into production environments.&lt;/li&gt;
-&lt;li&gt;Performed benchmarking and performance tuning of infrastructure and applications.&lt;/li&gt;
-&lt;li&gt;Participated on on-call roster for system and application support.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;senior-corporate-support-officer-internode&#34;&gt;Senior Corporate Support Officer - Internode&lt;/h4&gt;
-
-&lt;p&gt;Full time permanent from September 2005 to April 2007&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Performed support for Internode’s corporate clients and acted as an escalation point for other Corporate Support staff, helpdesk agents and Sales.&lt;/li&gt;
-&lt;li&gt;Performed second level support for Internode’s helpdesk.&lt;/li&gt;
-&lt;li&gt;Evaluated hardware for Internode to sell to its clients.&lt;/li&gt;
-&lt;li&gt;Performed custom Cisco configuration for clients, including building firewalls and site-to-site, inbound, star and mesh VPNs.&lt;/li&gt;
-&lt;li&gt;Provided network consultation services to clients.&lt;/li&gt;
-&lt;li&gt;Designed, built and administered department servers and Unix workstations for staff.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;infrastructure-analyst-eds&#34;&gt;Infrastructure Analyst - EDS&lt;/h4&gt;
-
-&lt;p&gt;Full time permanent from June 2003 to September 2005&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Deployed, maintained and supported EDS’ next-generation business applications across multiple remote locations interstate and overseas.&lt;/li&gt;
-&lt;li&gt;Coordinated implementation of server and network builds in local and remote datacenters.&lt;/li&gt;
-&lt;li&gt;Coordinated application deployment across multiple support groups.&lt;/li&gt;
-&lt;li&gt;Utilised High Availability technologies, such as clustering, redundant firewalls and network links, replicated database configuration and load balancing content switches.&lt;/li&gt;
-&lt;li&gt;Performed 24x7 on-call support, troubleshooting, fault diagnosis and restoration for mission-critical business applications and managed hosting clients.&lt;/li&gt;
-&lt;li&gt;Developed Disaster Recovery plans and led implementation testing.&lt;/li&gt;
-&lt;li&gt;Created and maintained application information and configuration information.&lt;/li&gt;
-&lt;li&gt;Provided Managed Web Hosting services to internal and external clients.&lt;/li&gt;
-&lt;li&gt;Developed custom solutions for client developed applications and web sites, according to best practices, client requirements and corporate standards.&lt;/li&gt;
-&lt;li&gt;Built, installed and maintained servers in various environments, both on-site and remote.&lt;/li&gt;
-&lt;li&gt;Maintained servers in secure DMZ and client environments.&lt;/li&gt;
-&lt;li&gt;Installed, configured and supported open source technologies in a production environment (Squid, Apache, Tomcat, MySQL, Cygwin).&lt;/li&gt;
-&lt;li&gt;Provided consultation and engineering services to clients.&lt;/li&gt;
-&lt;li&gt;Planned and performed a NT4 to Windows &lt;sup&gt;2000&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2003&lt;/sub&gt; migration.&lt;/li&gt;
-&lt;li&gt;Created and maintained server information and configuration documentation.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;help-desk-coordinator-eds&#34;&gt;Help Desk Coordinator - EDS&lt;/h4&gt;
-
-&lt;p&gt;Full time permanent from November 2000 to June 2003&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Supported many different clients, environments and technologies from ATMs and bank specific hardware, software and networks (including EFTPOS networks), through to desktop, server and custom application support.&lt;/li&gt;
-&lt;li&gt;Transitioned helpdesk operations to new support centres.&lt;/li&gt;
-&lt;li&gt;Liaised with client management groups to instigate new, streamlined support procedures.&lt;/li&gt;
-&lt;li&gt;Created documentation and procedures for the corporate knowledgebase.&lt;/li&gt;
-&lt;li&gt;Trained new and existing staff in EDS and client specific procedures.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://gregwork.net/pages/</guid>
+      <description></description>
     </item>
     
   </channel>
